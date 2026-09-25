@@ -1,0 +1,14 @@
+Feature,PFI_Score
+num__Torque [Nm],8.669573915237152
+num__Power,2.990790405409861
+num__Rotational speed [rpm],2.8784327425514418
+num__Temp_Speed,2.423588335490159
+cat__Type_L,2.298651461073553
+cat__Type_M,2.171699113179077
+num__Torque_Speed,2.037650592436015
+num__Temp_diff_norm,1.8736203824005533
+num__Temp_diff,1.4873442908519436
+num__Temp_ratio,1.41349935232346
+cat__Type_H,1.223474949133513
+num__Air temperature [K],0.15274625101003414
+num__Process temperature [K],0.08868274533296527
