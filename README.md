@@ -110,7 +110,7 @@ python src/make_figures.py            # 產生所有圖表到 figures/
 
 ## 九、致謝
 
-誠摯感謝共同作者臺科大許莉莆老師的悉心指導與論文品質審查；亦感謝國科會大專學生研究計畫匿名審查委員的寶貴意見，使驗證更臻嚴謹。
+誠摯感謝共同作者臺科大許莉莆老師的悉心指導與論文品質審查。
 
 ## 十、AI 使用揭露
 
@@ -230,7 +230,7 @@ The following are **not** covered by that license and remain under their own ter
 
 ## 9. Acknowledgments
 
-Sincere thanks to co-author Prof. Li-Fu Hsu of National Taiwan University of Science and Technology for careful guidance and review of the paper's quality. Thanks also to the anonymous reviewers of the NSTC College Student Research Program for valuable comments that made the validation more rigorous. (English translation of the Chinese text above.)
+Sincere thanks to co-author Prof. Li-Fu Hsu of National Taiwan University of Science and Technology for careful guidance and review of the paper's quality. (English translation of the Chinese text above.)
 
 ## 10. AI Use Disclosure
 
