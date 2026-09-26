@@ -112,6 +112,10 @@ python src/make_figures.py            # 產生所有圖表到 figures/
 
 誠摯感謝共同作者臺科大許莉莆老師的悉心指導與論文品質審查；亦感謝國科會大專學生研究計畫匿名審查委員的寶貴意見，使驗證更臻嚴謹。
 
+## 十、AI 使用揭露
+
+所有研究設計、方法與結論皆由本人獨立主導。AI 工具作為輔助，用於英文文法潤飾、對本人撰寫之程式進行除錯與重構、將實驗筆記本整理為可執行腳本，以及撰寫與翻譯 repo 文件。本人已逐行驗證所有代碼、結果與文稿，對研究真實性負完全責任。
+
 ---
 
 <a id="english"></a>
@@ -227,3 +231,7 @@ The following are **not** covered by that license and remain under their own ter
 ## 9. Acknowledgments
 
 Sincere thanks to co-author Prof. Li-Fu Hsu of National Taiwan University of Science and Technology for careful guidance and review of the paper's quality. Thanks also to the anonymous reviewers of the NSTC College Student Research Program for valuable comments that made the validation more rigorous. (English translation of the Chinese text above.)
+
+## 10. AI Use Disclosure
+
+All research design, methods, and conclusions were led and completed independently by the author. AI tools were used as an aid for English grammar polishing, debugging and refactoring of code written by the author, organizing experiment notebooks into runnable scripts, and drafting and translating the documentation in this repository. The author has verified all code, results, and manuscripts line by line and takes full responsibility for the authenticity of the research. (English translation of the Chinese text above.)
