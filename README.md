@@ -108,6 +108,10 @@ python src/make_figures.py            # 產生所有圖表到 figures/
 - **資料集**（`data/`）：UCI Machine Learning Repository 的 AI4I 2020 預測性維護資料集，CC BY 4.0，引用 Matzka (2020)，見 `data/README_data.md`。
 - **參考文獻**（`references/`）：著作權歸各作者與出版方所有，見 `references/README.md`。
 
+## 九、致謝
+
+誠摯感謝共同作者臺科大許莉莆老師的悉心指導與論文品質審查；亦感謝國科會大專學生研究計畫匿名審查委員的寶貴意見，使驗證更臻嚴謹。
+
 ---
 
 <a id="english"></a>
@@ -219,3 +223,7 @@ The following are **not** covered by that license and remain under their own ter
 
 - **Dataset** (`data/`): UCI Machine Learning Repository, AI4I 2020 Predictive Maintenance Dataset, CC BY 4.0 — cite Matzka (2020), see `data/README_data.md`.
 - **References** (`references/`): copyright of the original authors/publishers — see `references/README.md`.
+
+## 9. Acknowledgments
+
+Sincere thanks to co-author Prof. Li-Fu Hsu of National Taiwan University of Science and Technology for careful guidance and review of the paper's quality. Thanks also to the anonymous reviewers of the NSTC College Student Research Program for valuable comments that made the validation more rigorous. (English translation of the Chinese text above.)
